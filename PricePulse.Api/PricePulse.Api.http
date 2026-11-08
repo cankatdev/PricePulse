@@ -1,0 +1,6 @@
+@PricePulse.Api_HostAddress = http://localhost:5294
+
+GET {{PricePulse.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
